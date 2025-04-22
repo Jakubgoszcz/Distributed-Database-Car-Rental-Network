@@ -46,9 +46,11 @@ This project presents a distributed database system designed for a network of ca
 ## 🗺️ Schema Diagrams
 
 - **Oracle**
+
 ![image](https://github.com/user-attachments/assets/dded9e73-cf3f-452d-8d5e-a4cf8971abd3)
 
 - **SQL Server**
+
 ![image](https://github.com/user-attachments/assets/8651c249-2058-442a-9e70-634a38a5b6fb)
 
 ---
